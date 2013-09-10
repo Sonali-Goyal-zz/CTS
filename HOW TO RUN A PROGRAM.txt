@@ -1,0 +1,26 @@
+1.
+C:\Documents and Settings\RAHUL>
+2.
+C:\Documents and Settings\RAHUL>d:
+3.
+D:\ CD CTS PROJECT
+4
+D:\. CTS PROJECT>
+5.
+D:\. CTS PROJECT>javac CTS.java
+6.
+
+D:\. CTS PROJECT>java CTS
+7.
+then program executes
+   
+if you want to make temp path
+C:\Documents and Settings\RAHUL>set path=%path%;c:\jdk1.3\bin; 
+
+
+C:\Documents and Settings\RAHUL>javac CTS.java
+
+
+C:\Documents and Settings\RAHUL>java CTS
+then program executes
+

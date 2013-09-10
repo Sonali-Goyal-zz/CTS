@@ -1,0 +1,19 @@
+Title: Concurrent Simulation system
+Description: This is a train traffic simulation system, 
+
+
+The author may have retained certain copyrights to this code...please observe their request and the law by reviewing all copyright conditions at the above URL.
+
+To Run this project You 
+
+====================================================
+====================================================
+
+
+1) javac CTS.java
+
+2) java CTS
+
+
+====================================================
+====================================================
